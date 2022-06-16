@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    line-height: 1.7em;
+    color: #CCCCCC;
+    text-align: center;
+    background-color: #000000;
+}
+.wrap{
+    min-height: 100%;
+}
+.menu{
+    width: 758px;
+    position: relative;
+    text-align: center;
+    margin: 0px auto;
+}
+.menu ul{
+    display: inline;
+    text-align: center;
+}
+.menu ul li{
+    float: left;
+    padding-top: 10px;
+    padding-bottom: 45px;
+    font-size: 40px;
+    font-weight: normal;
+    font-family: 'Francois One', 'Arial Narrow', sans-serif;
+    color: #FFFFFF;
+    line-height: 100%;
+    list-style: none;  
+}
+.menu ul li .mn-archivo li{
+    font-size: 26px;
+}
+.content a, .menu a{
+    text-decoration: none;
+    background-color: #000000;
+    color: #3399cc;
+}
+.menu ul li a{
+    background: none;
+    color: #FFFFFF;
+    display: block;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+.content{
+    width: 758px;
+    text-align: left;
+    margin: 0 auto;
+    position: relative;
+    overflow: auto;
+    padding-bottom: 260px;
+    clear: both;
+    background: green;
+}
+p{
+    padding-bottom: 16px;
+}
+.clear{
+    clear: both;
+    margin: 0px;
+    padding: 0px;
+}
+#footer{
+    height: 260px;
+    margin-top: -260px;
+    clear: both;
+    position: relative;
+    color: #FFFFFF;
+    font-family: "Francois One", "Arial Narrow", Sans-serif;
+    font-size: 17px;
+}
+.footer-bg-news{
+    background: url(resources/multimedia/img10.jpg) no-repeat center top;
+    position: relative;
+}
+#footer p{
+    padding-top: 200px;
+}
+#footer a{
+    text-decoration: none;
+    color: #FFFFFF;
+}
