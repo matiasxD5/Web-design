@@ -1,0 +1,19 @@
+//Inicio//
+font-family: 'Arial', 'sans-serif';
+
+//Noticias//
+font-family: Arial, sans-serif;
+font-family: 'Francois One', 'Arial Narrow', sans-serif;
+
+//Banda//
+font-family: Arial, sans-serif;
+font-family: 'Francois One', 'Arial Narrow', sans-serif;
+
+
+
+
+
+
+//Contacto//
+font-family: Arial, sans-serif;
+font-family: 'Francois One', 'Arial Narrow', sans-serif;
